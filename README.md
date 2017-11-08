@@ -14,7 +14,7 @@ learn-cs
 - @jwasham's [coding-interview-university](https://github.com/jwasham/coding-interview-university#how-to-use-it)
     + Ref: [cs/coding-interview-university](https://github.com/Meeshbhoombah/lab/tree/master/cs/coding-interview-uni)
 
-## Langguage based resources
+## Resources by Language
 - Javascript
 - Python
     - [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
