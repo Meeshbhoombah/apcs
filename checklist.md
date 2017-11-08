@@ -1,10 +1,7 @@
 # Checklist
-A checklist of data structures, sorting algorithims, etc to understand in order to have
-a strong foothold in CS.
+A broad checklist of concepts to cover in Computer Science theory.
 
----
 - [ ] Algorithmic Complexity
-
 ## Data Structures
 - [ ] Arrays
 - [ ] Linked Lists
