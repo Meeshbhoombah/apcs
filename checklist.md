@@ -2,10 +2,8 @@
 A checklist of data structures, sorting algorithims, etc to understand in order to have
 a strong foothold in CS.
 
-## Pre Reqs
+---
 - [ ] Algorithmic Complexity
-- [ ] Big 0
-- [ ] Asymptotic Analysis
 
 ## Data Structures
 - [ ] Arrays
