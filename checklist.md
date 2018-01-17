@@ -1,7 +1,7 @@
 # Checklist
 A broad checklist of concepts to cover in Computer Science theory.
-
 - [ ] Algorithmic Complexity
+
 ## Data Structures
 - [ ] Arrays
 - [ ] Linked Lists
@@ -66,8 +66,8 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Cryptography
 - [ ] Garbage Collection
 - [ ] Parallel Programming
-
-
-
-
+- [ ] Artifical Intelligence
+- [ ] Blockchain
+- [ ] Chatbots
+- [ ] Voicebots
 
