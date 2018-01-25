@@ -8,7 +8,7 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Stack
 - [ ] Queue
 - [ ] Hash table
-- [ ] Binary search
+- [ ] Trees
 - [ ] Bitwise Operations
 
 ### Trees
@@ -17,6 +17,7 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Heap, Priority Queues, Binary Heaps
 - [ ] Balanced search trees
 - [ ] Traversals (preorder, inorder, postorder, BFS, DFS)
+- [ ] Binary search
 
 ### Sorting
 - [ ] Selection
@@ -70,4 +71,6 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Blockchain
 - [ ] Chatbots
 - [ ] Voicebots
+- [ ] Git
+    + [OneFlow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
 
