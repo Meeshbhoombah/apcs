@@ -8,6 +8,7 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Stack
 - [ ] Queue
 - [ ] Hash table
+    + [Prime Number Load Factor](https://cs.stackexchange.com/questions/11029/why-is-it-best-to-use-a-prime-number-as-a-mod-in-a-hashing-function)
 - [ ] Trees
 - [ ] Bitwise Operations
 
@@ -72,5 +73,7 @@ A broad checklist of concepts to cover in Computer Science theory.
 - [ ] Chatbots
 - [ ] Voicebots
 - [ ] Git
+    + [Demystifying Git Internals](https://medium.com/@pawan_rawal/demystifying-git-internals-a004f0425a70)
+    + [Git - Plumbing and Porcelan](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
     + [OneFlow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
 
