@@ -1,5 +1,7 @@
 # Checklist
 A broad checklist of concepts to cover in Computer Science theory.
+
+- [ ] Python
 - [ ] Algorithmic Complexity
 
 ## Data Structures
