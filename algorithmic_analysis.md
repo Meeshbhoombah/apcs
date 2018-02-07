@@ -1,9 +1,9 @@
 # Algorithmic Analysis
-Consider the multiple paths you can take home from school. Perhaps you and a friend are
-walking home together on the path you would consider the most optimized. Suddenly,
-there is a moment of awkward confusion when she takes a step left at a bend where you planned 
-to go right. She looks at you suprised. You look at her confused. To cease the awkward 
-tension she describes the route she would take to your house.
+Consider the multiple paths you can take to get home from school. Perhaps you and a friend are
+walking home together on the path you take on a daily basis. There is a moment of awkward 
+confusion when she takes a step left at a bend where you planned to go right. She looks at 
+you suprised. You look at her confused. To cease the awkward tension she beings to describes 
+the route she usually takes to get to your house from school.
 
 [ route diagram ]
 
@@ -11,7 +11,7 @@ She's sure that the route she takes is much more efficient. On what basis can yo
 deny that claim?
 
 First, let's consider how she came to the conclusion. It's likely that she first took into 
-account a number of factors that could potentially effect the walk:
+account a number of factors that could feasibly effect the walk from Point A to Point B:
 - Distance
 - Potential red lights
 - Cars
@@ -19,12 +19,11 @@ account a number of factors that could potentially effect the walk:
 - Roadwork
 - Time of Day
 
-Since neither of you specified a constraint on the context of which time of day, she probably 
 did not factor in the time of day. Furthermore, it would be impossible for her to 
 communicate, let alone know, every combination of how long a path may take at a given 
 time of day.
 
-Unless one of you preemtively know otherwise, number of cars, accidents, or any 
+Unless one of you preemtively knows otherwise, number of cars, accidents, or any 
 possibility of roadwork is a completely variable case. Furthermore, If you two are talking
 in generalized statements about the alternative routes, these factors are not relevant. As
 time progresses these factors will almost indefinetly change. It is important to note,
