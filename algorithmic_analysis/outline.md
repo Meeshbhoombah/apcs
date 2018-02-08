@@ -21,21 +21,28 @@
 # Algorithmic Analysis
 - Algorithmic analysis = this process of evaluation applied to algorithms 
     + Ignore certain factors that are too variable to account for
-        * Road = accidents or roadworks
+        * Road = accidents or number of cars
         * CS = hardware, operating system, etc.
     + Best/worst case scenario
-        * Road = 
+        * Road = there may be roadwork that causes detours, worst case scenario, but we 
+          ignore that and use the avg case to determine the basis
         * CS = determine best/worst case for our dataset (i.e: search on list where item is
-          not found)
+          not found), but compare with avg case
     + Context
-        * Road = 
-        * Good enough given the approximation of our problem 
+        * Road = time of day, the road is deserted at midnight and you can walk freely, to
+          normalize the comparison we use a generalized context of time of day
+        * CS = formula to search through a long list of items may be fast but slow when
+          short
+- Also note:
+    + Approximation was ok because of the context of the problem
+    + Ignoring certain things was ok because of a consensus
 - Unnecessary (though impactful) factors for algorithmic analysis:
     + Hardware - use a **machine model** == detrements on the road (too variable)
     + Inputs - **worst/best case analysis** == have your bike (context)
     + Dataset variations - compare **asymptotically** == consider time of day
 
 ## Deep Dive
+- Obama and Eric Schmidt
 - Donald Knuth
 - Computational Complexity Theory
 - Exact Computation - model of computation
