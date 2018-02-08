@@ -3,3 +3,7 @@
 
 # working
 *.swp
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
