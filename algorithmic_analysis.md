@@ -19,6 +19,7 @@ account a number of factors that could feasibly effect the walk from Point A to 
 - Roadwork
 - Time of Day
 
+Since neither of you specified a constraint on the timeframe, it is likely that she
 did not factor in the time of day. Furthermore, it would be impossible for her to 
 communicate, let alone know, every combination of how long a path may take at a given 
 time of day.
