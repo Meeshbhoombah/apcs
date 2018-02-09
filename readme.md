@@ -1,11 +1,25 @@
 # AP Computer Science
-Computer science taught the right way through a reasonable progression with thoughoutful
-explinations.
+Ace 💯AP Computer Science A and Learn CS 🔬the right way 🐍
 
-I've heard so many instances of students complaining that their computer science teachers did
-not provide them with the best course of study for learning computer science. It's invaluable to
-me that they are given this opportunity because for a number of reasons:
-1. Programming is the new computer literacy
-2. Computer literacy can provide a basis for escaping systemic boundaries
-3. Co-operative improvement of computer science is working to improve humanity
+**Table of Contents**
+- [Getting Started](#)
+    + [Complete Guide](#)
+    + [Quick Start](#)
+- [Usage](#)
+
+## Getting Started
+If you are completly new to computer science and have never used GitHub before check out [this
+getting started guide](#) that will give you step-by-step instructions on how to get started
+with `GitHub` (this website) and `Git` (a version control system).
+
+### Quick and Dirty
+[Fork this repository](https://github.com/Meeshbhoombah/apcs#fork-destination-box) and clone
+your fork onto your local machine. Run the `SETUP` script.
+```bash
+$ git clone https://github.com/Meeshbhoombah/apcs
+
+$ cd apcs
+$ ./SETUP
+
+```
 
